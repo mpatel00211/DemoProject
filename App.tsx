@@ -4,7 +4,7 @@ import React from 'react'
 const App = () => {
   return (
     <View>
-      <Text>Commit-1</Text>
+      <Text>Commit-c-2</Text>
     </View>
   )
 }
